@@ -1,0 +1,7 @@
+C:\Users\Mikky\source\repos\Poem game\bin\Debug\Poem game.exe.config
+C:\Users\Mikky\source\repos\Poem game\bin\Debug\Poem game.exe
+C:\Users\Mikky\source\repos\Poem game\bin\Debug\Poem game.pdb
+C:\Users\Mikky\source\repos\Poem game\obj\Debug\Poem game.csproj.AssemblyReference.cache
+C:\Users\Mikky\source\repos\Poem game\obj\Debug\Poem game.csproj.CoreCompileInputs.cache
+C:\Users\Mikky\source\repos\Poem game\obj\Debug\Poem game.exe
+C:\Users\Mikky\source\repos\Poem game\obj\Debug\Poem game.pdb
